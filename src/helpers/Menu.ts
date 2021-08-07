@@ -104,7 +104,7 @@ export class Menu {
     }
 
 
-    public static async leerInput(message: string) {
+    public static async leerInput(message: string,  number: boolean = false) {
         /**
          * Lee un input en consola
          */
