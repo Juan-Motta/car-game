@@ -79,7 +79,7 @@ export class Juego {
             this.sleep(1000);
 
 
-        } while (!(posicion >= this._jugadores.length));
+        } while (!(posicion > this._jugadores.length));
 
         jugadores = [...this._jugadores];
         jugadoresOrdenados = jugadores.sort((a, b) => b.conductor.carro.posicion - a.conductor.carro.posicion);
