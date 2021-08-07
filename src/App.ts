@@ -48,6 +48,14 @@ const main = async () => {
 
                     await Menu.pausa();
                 }
+                
+                for (let i = 0; i < 3; i++) {
+                    if (numJugadores == i) {
+                        for (let j = 0; j < 3 - i; j++) {
+                            jugadores.push(['Computadora', 'Sedan', 'Computadora']);
+                        }
+                    }
+                }
 
                 const juego = new Juego(jugadores, distanciaPista);
 
