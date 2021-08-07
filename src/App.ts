@@ -21,12 +21,12 @@ const main = async () => {
 
                 Menu.title('Datos pista');
 
-                const distanciaPista = await Menu.leerInput('Ingrese la distancia de la pista [metros]: ');
+                const distanciaPista = await Menu.leerInput('Ingrese la distancia de la pista [metros]: ', true);
 
                 Menu.banner();
                 Menu.title('Datos jugadores');
 
-                const numJugadores = await Menu.leerInput('Ingrese el numero de jugadores: ');
+                const numJugadores = await Menu.leerInput('Ingrese el numero de jugadores: ', true);
 
                 const jugadores: [string, string, string][] = [];
 
