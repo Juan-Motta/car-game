@@ -117,6 +117,8 @@ export class Menu {
                 validate(value: string) {
                     if (value.length === 0) {
                         return 'Por favor ingrese un valor';
+                    } else if (number && !(/^[0-9]*$/.test(value))) {
+                        return 'El valor ingresado solo debe contener numeros'
                     }
                     return true;
                 }
