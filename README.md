@@ -19,7 +19,7 @@ La pantalla de inicio del juego consta de 3 opciones:
 
 ![imagen](https://user-images.githubusercontent.com/78517969/128608576-067a5e8e-d22b-40dc-8b69-f88daac5c413.png)
 
-Es posible navegar a travez de las opciones usando las teclas arriba y abajo o usando el numero de la opcion.
+Es posible navegar a traves de las opciones usando las teclas arriba y abajo o usando el numero de la opcion.
 
 Al ingresar a la opcion iniciar juego, se pedira la distancia de la pista, luego el numero de jugadores y posteriormente los datos de los jugadores individuales.
 
