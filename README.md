@@ -1,6 +1,6 @@
 # Guia de uso
 
-Juego de carros por consola creado por [Juan Motta](https://github.com/Juan-Motta) y escrito en TypeScrript.
+Juego de carros por consola creado por [Juan Motta](https://github.com/Juan-Motta) y escrito en TypeScript.
 
 ## Requisitos
 
