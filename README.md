@@ -37,6 +37,11 @@ Una vez finalizado el juego se proporciona un listado con los 3 mejores jugadore
 
 ![imagen](https://user-images.githubusercontent.com/78517969/128610325-81f1651b-62d5-46b7-9177-c913aea31d54.png)
 
+En la segunda opcion del menu principal se encuentra la opcion para mostrar historial de juego el cual lista a los jugadores con mas numeros de victorias.
+
+![imagen](https://user-images.githubusercontent.com/78517969/128610398-51af619a-c2d3-4538-98bd-23ddb971be4b.png)
+
+
 
 
 
